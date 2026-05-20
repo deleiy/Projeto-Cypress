@@ -1,0 +1,12 @@
+{
+  "name": "projeto-ebac-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados com Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
